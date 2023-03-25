@@ -1,0 +1,14 @@
+.header {
+  max-height: 50px;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  padding: 20px 20px;
+  background: rgb(234, 255, 224);
+  flex: 1 0 auto;
+}
+
+.logo {
+  height: 20px;
+  width: 100vx;
+}

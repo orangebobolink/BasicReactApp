@@ -1,0 +1,26 @@
+.star__rating__star {
+  transition: color 0.03s;
+  width: 50px;
+  height: 50px;
+}
+
+.star__rating {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 50px;
+}
+.star__label {
+  flex: 0 1 auto;
+  margin: 0 20px;
+}
+.label {
+  font-size: 50px;
+  flex: 0 1 auto;
+
+  margin: 0 20px;
+}
+
+.star__rating .label {
+  text-align: center;
+}
